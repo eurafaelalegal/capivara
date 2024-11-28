@@ -63,3 +63,14 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     
     }
+
+    .algo{
+        background-color: greenyellow;
+        color: black;
+        font-size: 1.5em;
+        max-width: 550px;
+        position: absolute;
+        left: 470px;
+        padding: 30px;
+        border-radius: 30px;
+    }
